@@ -1,0 +1,117 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+.h1 {
+    color: white;
+}
+header {
+    justify-content: space-between;
+    padding: ;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #FF7400;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: #33CCCC;
+    padding: 40px;
+    width: 400px;
+    margin: 23px;
+}
+
+.article-but1 {
+    text-decoration: none;
+    background-color: #313186;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin: 677px 200px 933px 60px ;
+}
+
+.article-but2 {
+    text-decoration: none;
+    background-color: #313186;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin: 677px 200px 933px 60px;   
+}
+
+.article-but3 {
+    text-decoration: none;
+    background-color: #313186;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin: 1096px 200px 514px 60px; 
+}
+
+.article-but4 {
+    text-decoration: none;
+    background-color: #313186;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    margin: 1096px 200px 514px 60px;
+}
+
+footer {
+    background-color: #090974;
+    padding: ;
+    display: flex
+}
+
+footer a {
+    margin-right: 33px ;
+}
+
+footer p {
+    font-size: 24px;
+    color: #FF7400;
+}
