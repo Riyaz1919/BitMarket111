@@ -7,7 +7,7 @@ body {
 }
 header {
     justify-content: space-between;
-    padding: ;
+    padding: 0px;
     margin-bottom: 20px;
     display: flex;
 }
@@ -39,8 +39,8 @@ h1 {
     text-align: center;
     color: black;
     font-size: 36px;
-    margin-top: ;
-    margin-bottom: ;
+    margin-top: 15px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -68,7 +68,7 @@ article {
     font-size: 24px;
     text-align: center;
     padding: 10px 75px 10px 75px;
-    margin: 677px 200px 933px 60px ;
+    margin: 677px 200px 933px 60px;
 }
 
 .article-but2 {
@@ -103,12 +103,12 @@ article {
 
 footer {
     background-color: #090974;
-    padding: ;
-    display: flex
+    padding: 0px;
+    display: flex;
 }
 
 footer a {
-    margin-right: 33px ;
+    margin-right: 33px;
 }
 
 footer p {
